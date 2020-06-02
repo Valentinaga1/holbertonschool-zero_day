@@ -1,6 +1,2 @@
-# holbertonschool-zero_day
-# holbertonschool-zero_day
-# holbertonschool-zero_day
-# holbertonschool-zero_day
-# holbertonschool-zero_day
-# holbertonschool-zero_day
+Here I am giving the first steps as sofware developer wiht the first tasks
+
